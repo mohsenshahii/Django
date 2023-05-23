@@ -1,2 +1,1 @@
-# anomaly
-In this project I'll deal with Auto Encoders(ML), Python, Django, JavaScript and some front end developments 
+All the commits in the master branch are just for warm up with django.
